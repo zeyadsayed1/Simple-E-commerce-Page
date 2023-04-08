@@ -1,0 +1,23 @@
+
+If all inputs are empty => Please enter a non empty values
+if email input are empty => Please enter a non empty email
+if password input are empty => Please enter a non empty password
+if firstName input are empty or lastName input are empty => Please enter a non empty name
+
+-------------------------------------------------------------------------------
+
+if email input are not valid => Please enter a valid email
+if password input are not valid => Please enter a valid password 
+if password and Re-Enter Password not equal => Passwords do not match
+if password are less than 6 => Password Must be more than 6 chars
+
+-------------------------------------------------------------------------------
+
+if email and password in login page do not exist => You Should sign up first
+if all signUp inputs are valid => Saved Succesfuly (in green Color then redirect to loginPage)
+
+-------------------------------------------------------------------------------
+
+You can get icons from (https://fontawesome.com/search?o=r&m=free)
+
+you can search on youtube about how to use font awsome
